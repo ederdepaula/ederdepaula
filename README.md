@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ederdepaula
 - 👀 I’m interested in games and technology in general
-- 🌱 I’m currently learning HTML, CSS, Javascript and SQL
+- 🌱 I’m currently learning HTML, CSS, Javascript, SQL and SAP
 
 <!---
 ederdepaula/ederdepaula is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
