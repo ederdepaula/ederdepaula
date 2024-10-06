@@ -1,8 +1,8 @@
 Olá, eu me chamo Eder 👋
 
-Estou como Analista de Projetos Fiscais Sr. na Natura, atuando em projetos que visam o compliance fiscal em novas iniciativas de negócio, no cumprimento de novas demandas legais e em melhorias sistêmicas.
+Estou como Coordenador de TI na Natura, atuando como BRM para a área de Tax em projetos que visam o compliance fiscal, a habilitação de novas iniciativas de negócio, o cumprimento de novas demandas legais e melhorias sistêmicas.
 
-Sou um profissional com experiências acadêmicas diversificadas, e estou buscando atualmente uma transição de carreira para a área de Tecnologia, especificamente para a área de Ciência de Dados.
+Sou um profissional com experiências acadêmicas diversificadas, o que me permitiu migrar da área de tributos para tecnologia no final de 2024, e tenho profundo interesse pela área de Ciência de Dados.
 
 📖 O que estou estudando atualmente:  
 - Python
